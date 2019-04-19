@@ -1,0 +1,528 @@
+Name,Commute_Time_Index
+White,26
+Kingston,35
+Euharlee,16
+Trenton,71
+Lakeland,95
+Richmond Hill,44
+Pembroke,15
+Surrency,57
+Graham,26
+Baxley,78
+Cochran,85
+Allentown,24
+Tiger,98
+Sky Valley,77
+Mountain City,77
+Dillard,90
+Iron City,60
+Donalsonville,96
+Wrens,97
+Wadley,65
+Stapleton,34
+Louisville,72
+Bartow,56
+Avera,36
+Clayton,89
+Tallulah Falls,86
+Brunswick,88
+Woodbine,39
+St. Marys,79
+Kingsland,70
+Rockmart,34
+Cedartown,65
+Aragon,48
+Rutledge,50
+Madison,46
+Buckhead,3
+Bostwick,38
+Woodland,75
+Talbotton,1
+Junction City,5
+Geneva,41
+Manchester,52
+Ellaville,84
+Blairsville,96
+Rochelle,81
+Pitts,11
+Pineview,53
+Abbeville,37
+Waycross,97
+Winterville,73
+Bogart,60
+Conyers,39
+Grayson,12
+Gray,57
+Bremen,79
+Eton,65
+Chatsworth,66
+Oak Park,29
+Nunez,57
+Garfield,29
+Adrian,21
+Harlem,51
+Grovetown,68
+Milledgeville,90
+Rossville,79
+Lookout Mountain,84
+LaFayette,54
+Chickamauga,31
+Fort Oglethorpe,78
+Twin City,53
+Swainsboro,71
+Summertown,19
+Stillmore,28
+Ellijay,67
+East Ellijay,88
+Ocilla,98
+Fitzgerald,98
+Warrenton,54
+Norwood,76
+Camak,61
+Elberton,93
+Bowman,23
+Nahunta,24
+Hoboken,43
+Vernonburg,90
+Tybee Island,74
+Thunderbolt,87
+Savannah,83
+Port Wentworth,35
+Pooler,72
+Garden City,77
+Bloomingdale,68
+Newborn,20
+Gillsville,14
+Union City,14
+Social Circle,25
+Porterdale,48
+Covington,51
+Oxford,91
+Kennesaw,23
+Fort Valley,75
+Warner Robins,79
+Buford,53
+Fairburn,12
+Perry,87
+Byron,69
+Hagan,64
+Daisy,67
+Claxton,86
+Bellville,98
+Waynesboro,80
+Vidette,56
+Sardis,9
+Midville,1
+Keysville,9
+Vidalia,87
+Santa Claus,83
+Lyons,93
+Forsyth,52
+Culloden,3
+Homerville,99
+Fargo,30
+Argyle,39
+Girard,20
+Blythe,3
+Walthourville,42
+Riceboro,54
+Midway,26
+Hinesville,79
+Flemington,63
+Allenhurst,48
+Ila,41
+Hull,92
+Danielsville,46
+Comer,51
+Colbert,68
+Carlton,18
+Watkinsville,73
+North High Shoals,49
+Bishop,31
+Homeland,27
+Folkston,40
+Sparks,24
+Lenox,75
+Cecil,61
+Adel,62
+Ray City,75
+Nashville,45
+Enigma,31
+Alapaha,30
+Patterson,66
+Offerman,24
+Blackshear,48
+Jakin,70
+Damascus,34
+Reynolds,33
+Butler,77
+Dawsonville,13
+Wrightsville,48
+Kite,13
+Blakely,63
+Arlington,32
+Vienna,88
+Unadilla,80
+Pinehurst,83
+Lilly,86
+Dooling,#N/A
+Byromville,70
+Washington,75
+Smithville,39
+Leesburg,80
+Tignall,42
+Rayle,57
+Milner,47
+Barnesville,46
+Aldora,69
+Waco,52
+Tallapoosa,40
+Braswell,1
+Clermont,20
+Hampton,40
+Mount Zion,15
+Fayetteville,14
+Woolsey,28
+Mansfield,18
+Buchanan,4
+Mitchell,10
+Gibson,32
+Nicholls,64
+Douglas,96
+Broxton,30
+Ambrose,99
+Jeffersonville,85
+Danville,45
+Hephzibah,36
+Trion,95
+Summerville,80
+Menlo,86
+Lyerly,71
+Helen,64
+Cleveland,46
+Colquitt,86
+Woodbury,14
+Warm Springs,32
+Luthersville,18
+Lone Oak,62
+Greenville,41
+Gay,86
+Pine Mountain,56
+Sale City,59
+Pelham,87
+Meigs,51
+Camilla,94
+Baconton,82
+Woodville,5
+White Plains,6
+Union Point,31
+Siloam,62
+Greensboro,95
+Shellman,71
+Cuthbert,67
+Plains,53
+Leslie,77
+De Soto,36
+Andersonville,64
+Americus,92
+Hawkinsville,93
+Royston,74
+Martin,32
+Lavonia,92
+Franklin Springs,100
+Carnesville,27
+Canon,57
+Quitman,72
+Pavo,6
+Morven,3
+Barwick,70
+Scotland,61
+Milan,60
+Lumber City,60
+Jacksonville,54
+Alma,94
+Sycamore,35
+Rebecca,44
+Ashburn,67
+Willacoochee,78
+Pearson,84
+Young Harris,100
+Hiawassee,100
+Sylvania,82
+Rocky Ford,1
+Oliver,14
+Newington,57
+Hiltonia,30
+LaGrange,86
+Valdosta,95
+Remerton,100
+Lake Park,29
+Hahira,73
+Dasher,88
+Thomasville,93
+Hogansville,43
+West Point,97
+Rentz,95
+Montrose,5
+East Dublin,44
+Taylorsville,72
+Flowery Branch,18
+Peachtree City,29
+Ochlocknee,62
+Coolidge,57
+Boston,38
+Pulaski,64
+Metter,63
+Dudley,63
+Dublin,86
+Dexter,82
+Cadwell,68
+Morganton,98
+McCaysville,41
+Newton,67
+Blue Ridge,92
+Morgan,100
+Leary,37
+Edison,97
+Lincolnton,79
+Cordele,96
+Arabi,84
+Centerville,86
+Talking Rock,3
+Jasper,84
+Nelson,43
+Webster County,52
+Screven,25
+Odum,69
+Jesup,89
+Springfield,22
+Rincon,36
+Guyton,6
+Maxeys,11
+Lexington,15
+Crawford,74
+Arnoldsville,59
+Tennille,83
+Sandersville,94
+Riddleville,96
+Oconee,51
+Harrison,11
+Deepstep,91
+Davisboro,62
+Rhine,46
+Eastman,79
+Chester,46
+Chauncey,80
+Sharon,11
+Crawfordville,12
+Climax,12
+Brinson,17
+Bainbridge,77
+Attapulgus,20
+Dahlonega,52
+Statesboro,97
+Ringgold,74
+Register,55
+Portal,34
+Brooklet,58
+Millen,99
+Sparta,77
+Albany,90
+Yatesville,34
+Thomaston,93
+Columbus,85
+Fort Gaines,62
+Bluffton,53
+Buena Vista,68
+Richland,56
+Lumpkin,2
+Franklin,44
+Ephesus,2
+Centralhatchee,5
+Warwick,39
+Sylvester,65
+Sumner,53
+Poulan,42
+Toomsboro,58
+McIntyre,52
+Ivey,40
+Glenwood,92
+Alamo,87
+Irwinton,82
+Gordon,64
+Darien,91
+Jenkinsburg,7
+Jackson,57
+Flovilla,23
+Shady Dale,39
+Monticello,7
+Oglethorpe,66
+Brooks,19
+Griffin,57
+Auburn,2
+Montezuma,82
+Marshallville,49
+Waverly Hall,25
+Shiloh,28
+Jonesboro,33
+Hamilton,4
+Ideal,38
+Hazlehurst,94
+Denton,2
+Toccoa,89
+Avalon,27
+Ty Ty,74
+Tifton,77
+Omega,64
+Riverside,#N/A
+Norman Park,82
+Moultrie,88
+Funston,53
+Ellenton,68
+Doerun,81
+Berlin,65
+Thomson,77
+Dearing,47
+Soperton,84
+Rome,91
+Cave Spring,48
+Eatonton,91
+Sasser,75
+Parrott,84
+Dawson,73
+Bronwood,88
+Reidsville,44
+Manassas,13
+Glennville,71
+Collins,25
+Roberta,44
+Ludowici,37
+Cobbtown,50
+Hartwell,96
+Bowersville,60
+Cusseta-Chattahoochee County,99
+Uvalda,61
+Tarrytown,#N/A
+Mount Vernon,73
+Higgston,66
+Alston,90
+Ailey,99
+Zebulon,28
+Williamson,35
+Molena,4
+Meansville,58
+Concord,18
+Homer,17
+Baldwin,69
+Alto,73
+Whigham,4
+Cairo,56
+Resaca,48
+Ranger,2
+Plainville,58
+Fairmount,36
+Calhoun,92
+Talmo,77
+Pendergrass,29
+Nicholson,32
+Maysville,11
+Jefferson,20
+Hoschton,22
+Commerce,47
+Arcade,23
+Varnell,46
+Tunnel Hill,55
+Dalton,93
+Cohutta,15
+Mount Airy,62
+Demorest,96
+Cornelia,89
+Clarkesville,46
+Orchard Hill,10
+Gainesville,72
+Oakwood,59
+Adairsville,19
+Cartersville,70
+Emerson,49
+Locust Grove,20
+Stockbridge,19
+Tyrone,27
+Morrow,44
+Riverdale,37
+Lula,30
+Sunny Side,38
+Carl,59
+Douglasville,16
+McDonough,13
+Whitesburg,13
+Cumming,60
+Between,24
+Good Hope,50
+Villa Rica,8
+Roopville,10
+Braselton,16
+Lake City,54
+Forest Park,40
+Waleska,37
+Mountain Park,7
+Hapeville,37
+Sandy Springs,53
+Alpharetta,42
+Atlanta,47
+Palmetto,17
+Johns Creek,16
+Chattahoochee Hills,8
+College Park,22
+Milton,27
+East Point,28
+Roswell,34
+Chamblee,41
+Statham,23
+Haralson,15
+Grantville,6
+Canton,21
+Austell,17
+Marietta,35
+Hiram,8
+Carrollton,80
+Clarkston,10
+Pine Lake,4
+Avondale Estates,31
+Lithonia,5
+Stone Mountain,6
+Jersey,30
+Monroe,45
+Walnut Grove,9
+Smyrna,30
+Doraville,25
+Dunwoody,48
+Dallas,4
+Temple,21
+Bowdon,59
+Decatur,54
+Bethlehem,19
+Winder,17
+Moreland,67
+Newnan,32
+Senoia,9
+Sharpsburg,8
+Turin,12
+Snellville,7
+Lawrenceville,17
+Dacula,1
+Berkeley Lake,24
+Norcross,23
+Peachtree Corners,37
+Sugar Hill,16
+Suwanee,12
+Loganville,8
+Acworth,10
+Lovejoy,25
+Powder Springs,7
+Brookhaven,42
+Ball Ground,35
+Rest Haven,21
+Duluth,24
+Lilburn,28
+Woodstock,8
+Holly Springs,9
